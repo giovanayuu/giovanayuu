@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🔐 I'm interessed about DataScience</p>
+<p align="left">📊 I'm interessed about DataScience</p>
 
 ###
 
